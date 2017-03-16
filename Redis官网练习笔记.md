@@ -1,4 +1,4 @@
-﻿# [Redis官网](http://resid.io)在线练习笔记  
+﻿#[Redis官网](http://resid.io)在线练习笔记  
 
 > 在线练习[Redis在线练习](http://try.redis.io/)    
 命令列表[Commands](https://redis.io/commands)  
